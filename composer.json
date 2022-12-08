@@ -1,0 +1,17 @@
+{
+    "name": "mosezhao/make-composer",
+    "description": "test make composer package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mosezhao\\MakeComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mosezhao"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
